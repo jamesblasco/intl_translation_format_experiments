@@ -8,8 +8,7 @@ environment:
   sdk: ">=2.6.0 <3.0.0"
 
 dependencies:
-  intl_translation_format:
-    path: './../../intl_translation_format'
+  intl_translation_format: ^0.0.1+2
   gettext_parser: ^0.1.0+1
   
 

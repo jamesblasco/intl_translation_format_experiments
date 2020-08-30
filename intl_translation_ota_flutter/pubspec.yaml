@@ -11,8 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   intl: '>=0.15.3 <0.17.0'
-  intl_translation_format:
-    path: './../../intl_translation_format'
+  intl_translation_format: ^0.0.1+2
   intl_translation_ota:
     path: './../intl_translation_ota'  
 
